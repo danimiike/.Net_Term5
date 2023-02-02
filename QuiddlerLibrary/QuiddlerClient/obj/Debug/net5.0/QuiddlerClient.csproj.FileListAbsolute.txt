@@ -1,0 +1,43 @@
+C:\Users\prisc\Documents\Fanshawe\5th Term\INFO5060 .NET\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.AssemblyReference.cache
+C:\Users\prisc\Documents\Fanshawe\5th Term\INFO5060 .NET\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prisc\Documents\Fanshawe\5th Term\INFO5060 .NET\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfoInputs.cache
+C:\Users\prisc\Documents\Fanshawe\5th Term\INFO5060 .NET\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfo.cs
+C:\Users\prisc\Documents\Fanshawe\5th Term\INFO5060 .NET\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CoreCompileInputs.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.exe
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.deps.json
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.json
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.dev.json
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\ref\QuiddlerClient.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.pdb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.pdb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csprojAssemblyReference.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfoInputs.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfo.cs
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CoreCompileInputs.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CopyComplete
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\ref\QuiddlerClient.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.pdb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.genruntimeconfig.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.exe
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.deps.json
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.json
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.runtimeconfig.dev.json
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\ref\QuiddlerClient.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerClient.pdb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\bin\Debug\net5.0\QuiddlerLibrary.pdb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csprojAssemblyReference.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfoInputs.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.AssemblyInfo.cs
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CoreCompileInputs.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.csproj.CopyComplete
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\ref\QuiddlerClient.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.pdb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerClient\obj\Debug\net5.0\QuiddlerClient.genruntimeconfig.cache

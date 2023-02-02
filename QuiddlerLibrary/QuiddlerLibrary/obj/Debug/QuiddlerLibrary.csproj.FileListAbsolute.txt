@@ -1,0 +1,25 @@
+C:\Users\prisc\Documents\Fanshawe\5th Term\INFO5060 .NET\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csproj.AssemblyReference.cache
+C:\Users\prisc\Documents\Fanshawe\5th Term\INFO5060 .NET\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csproj.ResolveComReference.cache
+C:\Users\prisc\Documents\Fanshawe\5th Term\INFO5060 .NET\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.pdb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.tlb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csproj.ResolveComReference.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.pdb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csprojAssemblyReference.cache
+C:\Users\felip\Downloads\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.dll
+C:\Users\felip\Downloads\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.pdb
+C:\Users\felip\Downloads\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.tlb
+C:\Users\felip\Downloads\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csproj.AssemblyReference.cache
+C:\Users\felip\Downloads\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csproj.ResolveComReference.cache
+C:\Users\felip\Downloads\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\felip\Downloads\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.dll
+C:\Users\felip\Downloads\QuiddlerLibrary\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.pdb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\bin\Debug\QuiddlerLibrary.pdb
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csproj.ResolveComReference.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.dll
+C:\Users\danim\Documents\CPA - TERM5 - 2022\INFO-5060 Component based .NET\Project1\QuiddlerLibrary\QuiddlerLibrary\obj\Debug\QuiddlerLibrary.pdb
